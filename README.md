@@ -19,4 +19,4 @@
 
 ### Prerequisites
 
-- Python above 3.x installed on your system.
+- Python 3.x installed on your system.
