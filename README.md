@@ -9,7 +9,7 @@
   - Delete members
   - View member history
 
-  - **Book Management**
+-**Book Management**
   - Add books
   - Borrow books
   - View book information
