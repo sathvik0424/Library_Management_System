@@ -20,3 +20,4 @@
 ### Prerequisites
 
 - Python 3.x installed on your system.
+   Better to install the latest version.
